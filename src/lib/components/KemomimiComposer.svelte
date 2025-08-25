@@ -53,7 +53,7 @@
 		position: relative;
 		width: var(--box-size);
 		height: var(--box-size);
-		margin: 100px;
+		margin: 200px;
 	}
 
 	.icon {
